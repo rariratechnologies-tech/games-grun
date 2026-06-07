@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 6413a1013f2cb6248a4ccdd17c49fe9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8014114290189257805
+    second: newgr4_0
+  - first:
+      213: 7972296552369883534
+    second: newgr4_1
+  - first:
+      213: -4196916166740209520
+    second: newgr4_2
+  - first:
+      213: -5707310777798951835
+    second: newgr4_3
+  - first:
+      213: -2243736466469544617
+    second: newgr4_4
+  - first:
+      213: 6996191567153666175
+    second: newgr4_5
+  - first:
+      213: 681817239056638493
+    second: newgr4_6
+  - first:
+      213: 4685779369457230030
+    second: newgr4_7
+  - first:
+      213: -9164266605517767676
+    second: newgr4_8
+  - first:
+      213: -2769204107284026553
+    second: newgr4_9
+  - first:
+      213: -4176026959535349676
+    second: newgr4_10
+  - first:
+      213: -5549980174771361285
+    second: newgr4_11
+  - first:
+      213: 1713920023860745527
+    second: newgr4_12
+  - first:
+      213: 231536752814530911
+    second: newgr4_13
+  - first:
+      213: -1618990889996625389
+    second: newgr4_14
+  - first:
+      213: -5277027457262764529
+    second: newgr4_15
+  - first:
+      213: 7625172120538628647
+    second: newgr4_16
+  - first:
+      213: -5517296362833139584
+    second: newgr4_17
+  - first:
+      213: -3484444167296939039
+    second: newgr4_18
+  - first:
+      213: 7904492363433247346
+    second: newgr4_19
+  - first:
+      213: -8708680974705884935
+    second: newgr4_20
+  - first:
+      213: 5480579571171687691
+    second: newgr4_21
+  - first:
+      213: 3083013796119183455
+    second: newgr4_22
+  - first:
+      213: 2348252284099465997
+    second: newgr4_23
+  - first:
+      213: -7081885196410842089
+    second: newgr4_24
+  - first:
+      213: -4867918230383397257
+    second: newgr4_25
+  - first:
+      213: 7586580715732693075
+    second: newgr4_26
+  - first:
+      213: 5751802827496542300
+    second: newgr4_27
+  - first:
+      213: -5874270526686914875
+    second: newgr4_28
+  - first:
+      213: -1182254452077739115
+    second: newgr4_29
+  - first:
+      213: 67533579574080806
+    second: newgr4_30
+  - first:
+      213: -6192824437762885081
+    second: newgr4_31
+  - first:
+      213: 1109637588816008940
+    second: newgr4_32
+  - first:
+      213: 8620563081908763978
+    second: newgr4_33
+  - first:
+      213: -8433597182465383628
+    second: newgr4_34
+  - first:
+      213: 6844883618980654146
+    second: newgr4_35
+  - first:
+      213: 8248877101236671196
+    second: newgr4_36
+  - first:
+      213: 1123108685534037615
+    second: newgr4_37
+  - first:
+      213: 683686184482697304
+    second: newgr4_38
+  - first:
+      213: 1814776090131248002
+    second: newgr4_39
+  - first:
+      213: -3958653023564272841
+    second: newgr4_40
+  - first:
+      213: -7221934004084827390
+    second: newgr4_41
+  - first:
+      213: -4322735411034556395
+    second: newgr4_42
+  - first:
+      213: 7827267503519886081
+    second: newgr4_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: newgr4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 310
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b333ef738528c090800000000000000
+      internalID: -8014114290189257805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 953
+        width: 196
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e890410b97943ae60800000000000000
+      internalID: 7972296552369883534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 732
+        width: 443
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0901b598bfe81c5c0800000000000000
+      internalID: -4196916166740209520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 915
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cf882161f8bc0b0800000000000000
+      internalID: -5707310777798951835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_4
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 949
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d1e725295acd0e0800000000000000
+      internalID: -2243736466469544617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 913
+        width: 244
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7817c4b927771160800000000000000
+      internalID: 6996191567153666175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_6
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 733
+        width: 299
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1265bf9a2d467900800000000000000
+      internalID: 681817239056638493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_7
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 914
+        width: 155
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec02a5c928b370140800000000000000
+      internalID: 4685779369457230030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_8
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 701
+        width: 391
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c732f931cf1d080800000000000000
+      internalID: -9164266605517767676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_9
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 913
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b68ca498fc199d0800000000000000
+      internalID: -2769204107284026553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 907
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450e0781b95cb06c0800000000000000
+      internalID: -4176026959535349676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 876
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9ea44af628af2b0800000000000000
+      internalID: -5549980174771361285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_12
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 877
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73516a35e2119c710800000000000000
+      internalID: 1713920023860745527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 60
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5125ff2375963300800000000000000
+      internalID: 231536752814530911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_14
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 836
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a58230d503889e0800000000000000
+      internalID: -1618990889996625389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 795
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ebedb8c7b34c6b0800000000000000
+      internalID: -5277027457262764529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722caebc4ad02d960800000000000000
+      internalID: 7625172120538628647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 733
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088a6cc9030ae63b0800000000000000
+      internalID: -5517296362833139584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 700
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb8590cd74c4afc0800000000000000
+      internalID: -3484444167296939039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 707
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2720a3cbce562bd60800000000000000
+      internalID: 7904492363433247346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_20
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 700
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f004784bcc842780800000000000000
+      internalID: -8708680974705884935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_21
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 735
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d73f6251eee0c40800000000000000
+      internalID: 5480579571171687691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 731
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50005b86b019ca20800000000000000
+      internalID: 3083013796119183455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_23
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 711
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d039fb4c20ba69020800000000000000
+      internalID: 2348252284099465997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_24
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 731
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71495df6fe618bd90800000000000000
+      internalID: -7081885196410842089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_25
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 736
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776795a292ea17cb0800000000000000
+      internalID: -4867918230383397257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 671
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350731d27f2f84960800000000000000
+      internalID: 7586580715732693075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50d40f723282df40800000000000000
+      internalID: 5751802827496542300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 558
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6974644166a7ea0800000000000000
+      internalID: -5874270526686914875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 558
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59348c5f6d9c79fe0800000000000000
+      internalID: -1182254452077739115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_30
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 544
+        width: 35
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6257cecce6defe000800000000000000
+      internalID: 67533579574080806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 413
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72af8ce1cfaae0aa0800000000000000
+      internalID: -6192824437762885081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 484
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce69cc60289366f00800000000000000
+      internalID: 1109637588816008940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_33
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 377
+        width: 30
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4db405037462a770800000000000000
+      internalID: 8620563081908763978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 303
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4336a60bb08d5fa80800000000000000
+      internalID: -8433597182465383628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_35
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 78
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c6b3eb269edfe50800000000000000
+      internalID: 6844883618980654146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_36
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 56
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d017e406e97270800000000000000
+      internalID: 8248877101236671196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_37
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 54
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6689652665169f00800000000000000
+      internalID: 1123108685534037615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_38
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 91
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850fee366f0fc7900800000000000000
+      internalID: 683686184482697304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_39
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28335272d316f2910800000000000000
+      internalID: 1814776090131248002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_40
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 21
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bec658c0a0019c0800000000000000
+      internalID: -3958653023564272841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_41
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b9537694986cb90800000000000000
+      internalID: -7221934004084827390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_42
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 21
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5187847eb0f8204c0800000000000000
+      internalID: -4322735411034556395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newgr4_43
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 0
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10be245e25a00ac60800000000000000
+      internalID: 7827267503519886081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      newgr4_0: -8014114290189257805
+      newgr4_1: 7972296552369883534
+      newgr4_10: -4176026959535349676
+      newgr4_11: -5549980174771361285
+      newgr4_12: 1713920023860745527
+      newgr4_13: 231536752814530911
+      newgr4_14: -1618990889996625389
+      newgr4_15: -5277027457262764529
+      newgr4_16: 7625172120538628647
+      newgr4_17: -5517296362833139584
+      newgr4_18: -3484444167296939039
+      newgr4_19: 7904492363433247346
+      newgr4_2: -4196916166740209520
+      newgr4_20: -8708680974705884935
+      newgr4_21: 5480579571171687691
+      newgr4_22: 3083013796119183455
+      newgr4_23: 2348252284099465997
+      newgr4_24: -7081885196410842089
+      newgr4_25: -4867918230383397257
+      newgr4_26: 7586580715732693075
+      newgr4_27: 5751802827496542300
+      newgr4_28: -5874270526686914875
+      newgr4_29: -1182254452077739115
+      newgr4_3: -5707310777798951835
+      newgr4_30: 67533579574080806
+      newgr4_31: -6192824437762885081
+      newgr4_32: 1109637588816008940
+      newgr4_33: 8620563081908763978
+      newgr4_34: -8433597182465383628
+      newgr4_35: 6844883618980654146
+      newgr4_36: 8248877101236671196
+      newgr4_37: 1123108685534037615
+      newgr4_38: 683686184482697304
+      newgr4_39: 1814776090131248002
+      newgr4_4: -2243736466469544617
+      newgr4_40: -3958653023564272841
+      newgr4_41: -7221934004084827390
+      newgr4_42: -4322735411034556395
+      newgr4_43: 7827267503519886081
+      newgr4_5: 6996191567153666175
+      newgr4_6: 681817239056638493
+      newgr4_7: 4685779369457230030
+      newgr4_8: -9164266605517767676
+      newgr4_9: -2769204107284026553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

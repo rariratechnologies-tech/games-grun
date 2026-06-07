@@ -1,0 +1,392 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.10f1 (e35f0c77bd8e) revision 14901004'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) CoreSingleLanguage' Language: 'en' Physical Memory: 32675 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Rameez" at "2026-05-10T09:14:11.3107253Z"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-05-10T09:14:11Z
+
+COMMAND LINE ARGUMENTS:
+D:\unity\6000.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+E:/game/runn/ganesha-run
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+59874
+-licensingIpc
+LicenseClient-Rameez
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: E:/game/runn/ganesha-run
+E:/game/runn/ganesha-run
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [39884]  Target information:
+
+Player connection [39884]  * "[IP] 192.168.1.35 [Port] 0 [Flags] 2 [Guid] 3107237944 [EditorId] 3107237944 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-0ELSI3NO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [39884] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [39884] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              2f88416e2068461bab9cc2c39df462a7
+  Correlation Id:          dff0c5799c7b6ac632bd03866b0fb5ba
+  External correlation Id: 8288938333242222348
+  Machine Id:              4nmtTOo/0S5cnIoTmbR7IbXCyQ8=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Rameez" (connect: 0.00s, validation: 0.00s, handshake: 2.78s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Rameez-notifications" at "2026-05-10T09:14:14.0885849Z"
+[Licensing::Module] Licensing Background thread has ended after 2.78s
+[Licensing::Module] Licensing is initialized (took 2.46s).
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 13469813675365-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Refreshing native plugins compatible for Editor in 4.13 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.10f1 (e35f0c77bd8e)
+[Subsystems] Discovering subsystems at path D:/unity/6000.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/game/runn/ganesha-run/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25e2)
+    Vendor:   NVIDIA
+    VRAM:     3991 MB
+    Driver:   30.0.15.1236
+Initialize mono
+Mono path[0] = 'D:/unity/6000.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity/6000.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/unity/6000.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56168
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unity/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/unity/6000.3.10f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.001615 seconds.
+- Loaded All Assemblies, in  0.454 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 277 ms
+Native extension for WindowsStandalone target not found
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.796 seconds
+Domain Reload Profiling: 1249ms
+	BeginReloadAssembly (139ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (57ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (198ms)
+		LoadAssemblies (138ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (194ms)
+			TypeCache.Refresh (193ms)
+				TypeCache.ScanAssembly (178ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (796ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (745ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (373ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (109ms)
+			ProcessInitializeOnLoadAttributes (168ms)
+			ProcessInitializeOnLoadMethodAttributes (92ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.899 seconds
+Refreshing native plugins compatible for Editor in 1.80 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.903 seconds
+Domain Reload Profiling: 1800ms
+	BeginReloadAssembly (210ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (591ms)
+		LoadAssemblies (386ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (328ms)
+			TypeCache.Refresh (232ms)
+				TypeCache.ScanAssembly (214ms)
+			BuildScriptInfoCaches (79ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (903ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (726ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (176ms)
+			ProcessInitializeOnLoadAttributes (397ms)
+			ProcessInitializeOnLoadMethodAttributes (136ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.84 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6977 unused Assets / (4.6 MB). Loaded Objects now: 7811.
+Memory consumption went from 153.6 MB to 149.1 MB.
+Total: 9.880700 ms (FindLiveObjects: 0.758400 ms CreateObjectMapping: 1.166200 ms MarkObjects: 5.526100 ms  DeleteObjects: 2.429300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 823369.351519 seconds.
+  path: Assets/mouse/frame_000.png
+  artifactKey: Guid(058042af0b74f7943bedef44f53997f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_000.png using Guid(058042af0b74f7943bedef44f53997f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ff3937b5727caf70778a4ed51b2df1e') in 0.13556 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/mouse/frame_022.png
+  artifactKey: Guid(e212819424d55f54e9953aeffb3a6403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_022.png using Guid(e212819424d55f54e9953aeffb3a6403) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '865f8830329d6ef5fdf7afca4bba84a4') in 0.0166821 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/mouse/frame_010.png
+  artifactKey: Guid(f5111857e41aa764d9afb9e8feb3bbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_010.png using Guid(f5111857e41aa764d9afb9e8feb3bbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e35d0ebe8f32d8181fd603733f28ddb4') in 0.0186964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/mouse/frame_006.png
+  artifactKey: Guid(347b388003fc33a45b6285467a0c6fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_006.png using Guid(347b388003fc33a45b6285467a0c6fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7958f511cda140055ab02dfee0c218ae') in 0.0192737 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/mouse/frame_017.png
+  artifactKey: Guid(a309e60bf21f4cd4fbef8400f31018c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_017.png using Guid(a309e60bf21f4cd4fbef8400f31018c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5da9dca13258aaafd3243fe70e999a89') in 0.0162874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/mouse/frame_007.png
+  artifactKey: Guid(263773e18f3e139418e0562b581360fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_007.png using Guid(263773e18f3e139418e0562b581360fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '217921f3879175ffb2735e5bbbd66996') in 0.0171097 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/mouse/frame_018.png
+  artifactKey: Guid(b80167952ea3d384e9edf0a62adef367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_018.png using Guid(b80167952ea3d384e9edf0a62adef367) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c916468dea98a91ff668303877616459') in 0.0159316 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/mouse/frame_026.png
+  artifactKey: Guid(5decf0cd436147a47af61d9133daa8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_026.png using Guid(5decf0cd436147a47af61d9133daa8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61742801d26dc2f74ef23574af6aa6ac') in 0.0152845 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/mouse/frame_015.png
+  artifactKey: Guid(2a2c5e29def2e8c45b2b6a6ec9ec8436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_015.png using Guid(2a2c5e29def2e8c45b2b6a6ec9ec8436) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '63876542532c5ff0bf6f426d2b6fe369') in 0.0152196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/mouse/frame_005.png
+  artifactKey: Guid(3ed36c90d4c0174499279734d164602d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_005.png using Guid(3ed36c90d4c0174499279734d164602d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '385cea4fe1ecf78a278226a2649d5657') in 0.0171032 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/mouse/frame_023.png
+  artifactKey: Guid(41dbfdc705f05c74bb02b27a715d5dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouse/frame_023.png using Guid(41dbfdc705f05c74bb02b27a715d5dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8711caff505c59fcbe1cc18b206f36c5') in 0.0174307 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.151390 seconds.
+  path: Assets/mouse/frame_010.png
+  artifactKey: Guid(f5111857e41aa764d9afb9e8feb3bbc1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/mouse/frame_010.png using Guid(f5111857e41aa764d9afb9e8feb3bbc1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b2bc4e7a2b7dfb344932713bb3183211') in 0.1583109 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/mouse/frame_028.png
+  artifactKey: Guid(6fc02c5dc5de5ad4e933450f7bffaf5c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/mouse/frame_028.png using Guid(6fc02c5dc5de5ad4e933450f7bffaf5c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c63fef8460e14f8c117a92b42ba69b0e') in 0.0137262 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/mouse/frame_030.png
+  artifactKey: Guid(081e418d24bfd2a488e4b6cbdc60e2ef) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/mouse/frame_030.png using Guid(081e418d24bfd2a488e4b6cbdc60e2ef) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1645aa1cbe764ec1d15a1eb59949708c') in 0.019364 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/mouse/frame_033.png
+  artifactKey: Guid(f241d0e86320d2a4091ec095118fbd30) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/mouse/frame_033.png using Guid(f241d0e86320d2a4091ec095118fbd30) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'fc84e825e22c9407f7049d645db2ef15') in 0.0162346 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/mouse/frame_016.png
+  artifactKey: Guid(870b305e367e1db4aaf80d892a1d8dcf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/mouse/frame_016.png using Guid(870b305e367e1db4aaf80d892a1d8dcf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '75f7fb46a6bd8e1538e403fd55914174') in 0.0176237 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/mouse/frame_008.png
+  artifactKey: Guid(45b179c3b80abce42925c8f26055fd21) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/mouse/frame_008.png using Guid(45b179c3b80abce42925c8f26055fd21) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f39439e29908e4fef6e40d9ffd103ec5') in 0.0145819 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/mouse/frame_012.png
+  artifactKey: Guid(59c607c5556023a4ebb0a633bded7263) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/mouse/frame_012.png using Guid(59c607c5556023a4ebb0a633bded7263) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0b0288b4410b00090de20d1509dfd7b5') in 0.0151164 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/mouse/frame_015.png
+  artifactKey: Guid(2a2c5e29def2e8c45b2b6a6ec9ec8436) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/mouse/frame_015.png using Guid(2a2c5e29def2e8c45b2b6a6ec9ec8436) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b03671a5c9c859f69a44ebbe0c75b7d8') in 0.0165945 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/mouse/frame_034.png
+  artifactKey: Guid(35bdab4c4b9c00d429240e5a32cbb8f4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/mouse/frame_034.png using Guid(35bdab4c4b9c00d429240e5a32cbb8f4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '65d1709cb16c6a7e6cc42bd4c9c8e57b') in 0.0141855 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/mouse/frame_009.png
+  artifactKey: Guid(889f0e337cd9ce64496b22b9b469d969) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/mouse/frame_009.png using Guid(889f0e337cd9ce64496b22b9b469d969) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2de181a98f71161d8a21d483bce3ef74') in 0.0142587 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

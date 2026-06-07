@@ -1,0 +1,4953 @@
+fileFormatVersion: 2
+guid: 1a69d0d6b6c7da646a7742d9caf2b095
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5345928251689132701
+    second: clo_0
+  - first:
+      213: 8344122902686224951
+    second: clo_1
+  - first:
+      213: -8156278108757834706
+    second: clo_2
+  - first:
+      213: -8799720682140794556
+    second: clo_3
+  - first:
+      213: 4323972262341438198
+    second: clo_4
+  - first:
+      213: 6089991478326851202
+    second: clo_5
+  - first:
+      213: -2746964359983845531
+    second: clo_6
+  - first:
+      213: 383988100319700337
+    second: clo_7
+  - first:
+      213: -991400436724141351
+    second: clo_8
+  - first:
+      213: -129864921060266653
+    second: clo_9
+  - first:
+      213: -7743885014182191084
+    second: clo_10
+  - first:
+      213: 6307417149015670649
+    second: clo_11
+  - first:
+      213: 2068653666742788686
+    second: clo_12
+  - first:
+      213: -4679290936045862751
+    second: clo_13
+  - first:
+      213: 7533049920862625525
+    second: clo_14
+  - first:
+      213: 8767498027452525302
+    second: clo_15
+  - first:
+      213: 4123258049724617066
+    second: clo_16
+  - first:
+      213: 3871322203713258654
+    second: clo_17
+  - first:
+      213: -7073354474706467197
+    second: clo_18
+  - first:
+      213: 9052873682461041130
+    second: clo_19
+  - first:
+      213: -2966283638251775981
+    second: clo_20
+  - first:
+      213: 3138329523155888121
+    second: clo_21
+  - first:
+      213: 2849148624684888256
+    second: clo_22
+  - first:
+      213: -4288996225044878910
+    second: clo_23
+  - first:
+      213: 590696487916164525
+    second: clo_24
+  - first:
+      213: 2526955916458285909
+    second: clo_25
+  - first:
+      213: -8705436483579130171
+    second: clo_26
+  - first:
+      213: -1924153754409859604
+    second: clo_27
+  - first:
+      213: 3647805745780296007
+    second: clo_28
+  - first:
+      213: 7413737295493298918
+    second: clo_29
+  - first:
+      213: 3751050089241345380
+    second: clo_30
+  - first:
+      213: 8860775102524532584
+    second: clo_31
+  - first:
+      213: -7544513046835627623
+    second: clo_32
+  - first:
+      213: -7952261564358192840
+    second: clo_33
+  - first:
+      213: 8828463066958903162
+    second: clo_34
+  - first:
+      213: 5918838106922348624
+    second: clo_35
+  - first:
+      213: 7550846412542911098
+    second: clo_36
+  - first:
+      213: 2673326385650779448
+    second: clo_37
+  - first:
+      213: 4885999624549067468
+    second: clo_38
+  - first:
+      213: 1419031293982927777
+    second: clo_39
+  - first:
+      213: 6905598219411799700
+    second: clo_40
+  - first:
+      213: -8531825181235726522
+    second: clo_41
+  - first:
+      213: 5565448045903451736
+    second: clo_42
+  - first:
+      213: 4830989542721552512
+    second: clo_43
+  - first:
+      213: -7794596348411546385
+    second: clo_44
+  - first:
+      213: 5047722843178125338
+    second: clo_45
+  - first:
+      213: 9185569928006886877
+    second: clo_46
+  - first:
+      213: -5956232078240344941
+    second: clo_47
+  - first:
+      213: 7301744205592340544
+    second: clo_48
+  - first:
+      213: 5354375833256221339
+    second: clo_49
+  - first:
+      213: 6843373559482781292
+    second: clo_50
+  - first:
+      213: -6727627966616032518
+    second: clo_51
+  - first:
+      213: -3598498648352886025
+    second: clo_52
+  - first:
+      213: -5327734551657922716
+    second: clo_53
+  - first:
+      213: -2479054189723300306
+    second: clo_54
+  - first:
+      213: 4494425748214173949
+    second: clo_55
+  - first:
+      213: 7676547093412846141
+    second: clo_56
+  - first:
+      213: 3069974157514223114
+    second: clo_57
+  - first:
+      213: 2831599736342478705
+    second: clo_58
+  - first:
+      213: 4597045509833347920
+    second: clo_59
+  - first:
+      213: 1745592441747423944
+    second: clo_60
+  - first:
+      213: -6661040316660479737
+    second: clo_61
+  - first:
+      213: 5303489569241738203
+    second: clo_62
+  - first:
+      213: -7570528491068553500
+    second: clo_63
+  - first:
+      213: -4872675134378577280
+    second: clo_64
+  - first:
+      213: -8697776071324016910
+    second: clo_65
+  - first:
+      213: 3546562549993887133
+    second: clo_66
+  - first:
+      213: 8681643302506336796
+    second: clo_67
+  - first:
+      213: -2635666197290535026
+    second: clo_68
+  - first:
+      213: 7915872962061424079
+    second: clo_69
+  - first:
+      213: 4630805231836742140
+    second: clo_70
+  - first:
+      213: -1387507373151887643
+    second: clo_71
+  - first:
+      213: 2804793310814913196
+    second: clo_72
+  - first:
+      213: -872797639922361825
+    second: clo_73
+  - first:
+      213: -1338327660654492509
+    second: clo_74
+  - first:
+      213: 2400005113498718824
+    second: clo_75
+  - first:
+      213: 7845935078948015473
+    second: clo_76
+  - first:
+      213: 7969846724650013319
+    second: clo_77
+  - first:
+      213: -5540412918534581680
+    second: clo_78
+  - first:
+      213: -2048823220783622415
+    second: clo_79
+  - first:
+      213: -2345957966608898547
+    second: clo_80
+  - first:
+      213: 2647445837507845048
+    second: clo_81
+  - first:
+      213: -4552914857923720005
+    second: clo_82
+  - first:
+      213: -438006903986604234
+    second: clo_83
+  - first:
+      213: 6501287736553868348
+    second: clo_84
+  - first:
+      213: -4949972857503912528
+    second: clo_85
+  - first:
+      213: -8492258439698116635
+    second: clo_86
+  - first:
+      213: -2073810891707143142
+    second: clo_87
+  - first:
+      213: -4697936045232154116
+    second: clo_88
+  - first:
+      213: 3130536922159659342
+    second: clo_89
+  - first:
+      213: -349379864152871747
+    second: clo_90
+  - first:
+      213: 5537483546666665154
+    second: clo_91
+  - first:
+      213: -8181671816192417158
+    second: clo_92
+  - first:
+      213: -2908356631769826071
+    second: clo_93
+  - first:
+      213: 4681671164401445314
+    second: clo_94
+  - first:
+      213: 7729185770004694161
+    second: clo_95
+  - first:
+      213: -1820076188193612903
+    second: clo_96
+  - first:
+      213: 3750462549140860278
+    second: clo_97
+  - first:
+      213: -2100434136835508754
+    second: clo_98
+  - first:
+      213: -3555118506501916146
+    second: clo_99
+  - first:
+      213: 6914736879703476314
+    second: clo_100
+  - first:
+      213: -4482007791349436303
+    second: clo_101
+  - first:
+      213: 2695700645506177001
+    second: clo_102
+  - first:
+      213: -4463580014602789140
+    second: clo_103
+  - first:
+      213: -3576035558904718127
+    second: clo_104
+  - first:
+      213: 68458705652571213
+    second: clo_105
+  - first:
+      213: -9039368437738623306
+    second: clo_106
+  - first:
+      213: -2686937235596616449
+    second: clo_107
+  - first:
+      213: -3265131737767942027
+    second: clo_108
+  - first:
+      213: -3696266893531518957
+    second: clo_109
+  - first:
+      213: -8815704127231488263
+    second: clo_110
+  - first:
+      213: 241422324645781597
+    second: clo_111
+  - first:
+      213: -3808326710859464300
+    second: clo_112
+  - first:
+      213: -4673417994758591148
+    second: clo_113
+  - first:
+      213: 7750328341222501506
+    second: clo_114
+  - first:
+      213: -7802380283880695788
+    second: clo_115
+  - first:
+      213: 6394271243920396799
+    second: clo_116
+  - first:
+      213: 7410305726299392088
+    second: clo_117
+  - first:
+      213: 5515049004456500833
+    second: clo_118
+  - first:
+      213: -5649297518463576136
+    second: clo_119
+  - first:
+      213: 6522623270394468190
+    second: clo_120
+  - first:
+      213: -8690631792604284638
+    second: clo_121
+  - first:
+      213: 2665119730501592173
+    second: clo_122
+  - first:
+      213: -4084648479185649561
+    second: clo_123
+  - first:
+      213: 7798428623379511303
+    second: clo_124
+  - first:
+      213: 4267118251201489805
+    second: clo_125
+  - first:
+      213: 6472659376739756299
+    second: clo_126
+  - first:
+      213: -5156295354288100985
+    second: clo_127
+  - first:
+      213: -4066308853222054509
+    second: clo_128
+  - first:
+      213: -8379406381046999229
+    second: clo_129
+  - first:
+      213: -964939109398315800
+    second: clo_130
+  - first:
+      213: 4462619925752544638
+    second: clo_131
+  - first:
+      213: 7752112570063525612
+    second: clo_132
+  - first:
+      213: 3116554002161257370
+    second: clo_133
+  - first:
+      213: -9083939503580033166
+    second: clo_134
+  - first:
+      213: -2389519560465382494
+    second: clo_135
+  - first:
+      213: -5186319467358618323
+    second: clo_136
+  - first:
+      213: -7365725443570887997
+    second: clo_137
+  - first:
+      213: -1291246004017265669
+    second: clo_138
+  - first:
+      213: 8307103146208114363
+    second: clo_139
+  - first:
+      213: 7412101216650354312
+    second: clo_140
+  - first:
+      213: 3873748857201165600
+    second: clo_141
+  - first:
+      213: -7005134546994688031
+    second: clo_142
+  - first:
+      213: -4674602568129773148
+    second: clo_143
+  - first:
+      213: -7205573395732835489
+    second: clo_144
+  - first:
+      213: -1618069026285432071
+    second: clo_145
+  - first:
+      213: -2232721325858727446
+    second: clo_146
+  - first:
+      213: -3826458888807740540
+    second: clo_147
+  - first:
+      213: -8647801715128490528
+    second: clo_148
+  - first:
+      213: -5281042374860460281
+    second: clo_149
+  - first:
+      213: -2162958367888459529
+    second: clo_150
+  - first:
+      213: 3775578276277083069
+    second: clo_151
+  - first:
+      213: 111617509601560718
+    second: clo_152
+  - first:
+      213: -5661355296793962368
+    second: clo_153
+  - first:
+      213: 6987990285245978370
+    second: clo_154
+  - first:
+      213: 3786168059216242687
+    second: clo_155
+  - first:
+      213: 223003279751619219
+    second: clo_156
+  - first:
+      213: -714375926489984880
+    second: clo_157
+  - first:
+      213: -2960260532450852176
+    second: clo_158
+  - first:
+      213: -6364777829645139384
+    second: clo_159
+  - first:
+      213: 4928916548364838559
+    second: clo_160
+  - first:
+      213: -803610512945491948
+    second: clo_161
+  - first:
+      213: 7170546183606415056
+    second: clo_162
+  - first:
+      213: -2951492964403482233
+    second: clo_163
+  - first:
+      213: -1194283535348538441
+    second: clo_164
+  - first:
+      213: 4356976373651129479
+    second: clo_165
+  - first:
+      213: 4784994288617404083
+    second: clo_166
+  - first:
+      213: 1392960711516077938
+    second: clo_167
+  - first:
+      213: 4784298228756763976
+    second: clo_168
+  - first:
+      213: 655123111656749077
+    second: clo_169
+  - first:
+      213: 8230658522479907334
+    second: clo_170
+  - first:
+      213: 2571949987380954176
+    second: clo_171
+  - first:
+      213: -925495621590355428
+    second: clo_172
+  - first:
+      213: -1170567745954048976
+    second: clo_173
+  - first:
+      213: 9121502810546288215
+    second: clo_174
+  - first:
+      213: -4611787468648654389
+    second: clo_175
+  - first:
+      213: 2859000043032216208
+    second: clo_176
+  - first:
+      213: -613194045244723801
+    second: clo_177
+  - first:
+      213: 6712421946112763668
+    second: clo_178
+  - first:
+      213: 6437062240631472916
+    second: clo_179
+  - first:
+      213: 9067569688461620902
+    second: clo_180
+  - first:
+      213: -4634716062923425254
+    second: clo_181
+  - first:
+      213: 5768353112439662932
+    second: clo_182
+  - first:
+      213: -2817098051702878541
+    second: clo_183
+  - first:
+      213: -8921821884768801406
+    second: clo_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 113
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d185b34927fc5b0800000000000000
+      internalID: -5345928251689132701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 990
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73250d822974cc370800000000000000
+      internalID: 8344122902686224951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 982
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24c13e16441fce80800000000000000
+      internalID: -8156278108757834706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 974
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441075a99ac11e580800000000000000
+      internalID: -8799720682140794556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 955
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fae08bfcd5d10c30800000000000000
+      internalID: 4323972262341438198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 899
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286f3debbfef38450800000000000000
+      internalID: 6089991478326851202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 883
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f2188f772d0e9d0800000000000000
+      internalID: -2746964359983845531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 894
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175688d8423345500800000000000000
+      internalID: 383988100319700337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1006
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2f3e23e86dd32f0800000000000000
+      internalID: -991400436724141351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 948
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d2b67da80a23ef0800000000000000
+      internalID: -129864921060266653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 893
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4102334cb91388490800000000000000
+      internalID: -7743885014182191084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 206
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f39499a72788750800000000000000
+      internalID: 6307417149015670649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 683
+        width: 223
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426389bc8555bc10800000000000000
+      internalID: 2068653666742788686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 879
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a008448fa1df0fb0800000000000000
+      internalID: -4679290936045862751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_14
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 685
+        width: 208
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe1d40cdf4ca8860800000000000000
+      internalID: 7533049920862625525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 879
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faee37f0096ca970800000000000000
+      internalID: 8767498027452525302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_16
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 681
+        width: 187
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a611b1ba951c83930800000000000000
+      internalID: 4123258049724617066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_17
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 910
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94496b7803b9b530800000000000000
+      internalID: 3871322203713258654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_18
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 880
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38683bcd49566dd90800000000000000
+      internalID: -7073354474706467197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_19
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 960
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1a29766a442ad70800000000000000
+      internalID: 9052873682461041130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_20
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 944
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31813fe3fb4a5d6d0800000000000000
+      internalID: -2966283638251775981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_21
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 920
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7e3dfd2169d8b20800000000000000
+      internalID: 3138329523155888121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_22
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 872
+        width: 35
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0b2a624953a8720800000000000000
+      internalID: 2849148624684888256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_23
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 896
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9653b48ac6a74c0800000000000000
+      internalID: -4288996225044878910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_24
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 0
+        width: 206
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5505c7353923800800000000000000
+      internalID: 590696487916164525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_25
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 0
+        width: 159
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b5193840d811320800000000000000
+      internalID: 2526955916458285909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_26
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 0
+        width: 133
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce4a8d34a3103780800000000000000
+      internalID: -8705436483579130171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 859
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce58a2fda580c45e0800000000000000
+      internalID: -1924153754409859604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 852
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7490dd6bffb9f9230800000000000000
+      internalID: 3647805745780296007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 846
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea71f36ac2e2e660800000000000000
+      internalID: 7413737295493298918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_30
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 831
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d7de7ae286e0430800000000000000
+      internalID: 3751050089241345380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_31
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 833
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867a994620cc7fa70800000000000000
+      internalID: 8860775102524532584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 838
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999ff004b518c4790800000000000000
+      internalID: -7544513046835627623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 819
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83110777d34e3a190800000000000000
+      internalID: -7952261564358192840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 830
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77bdba5260058a70800000000000000
+      internalID: 8828463066958903162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 807
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050f62e16efe32250800000000000000
+      internalID: 5918838106922348624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 782
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72272d5ecef9c860800000000000000
+      internalID: 7550846412542911098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 814
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835c4611f20991520800000000000000
+      internalID: 2673326385650779448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_38
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 811
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca60f975ce8ec340800000000000000
+      internalID: 4885999624549067468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 795
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abe30b817961b310800000000000000
+      internalID: 1419031293982927777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_40
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 800
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e3c9d3efc95df50800000000000000
+      internalID: 6905598219411799700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_41
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 793
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64736b2833ed89980800000000000000
+      internalID: -8531825181235726522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_42
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 795
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85697ffb2817c3d40800000000000000
+      internalID: 5565448045903451736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_43
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 783
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0808b87b46f1b0340800000000000000
+      internalID: 4830989542721552512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_44
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 792
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe47f5d2be704d390800000000000000
+      internalID: -7794596348411546385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_45
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 780
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18c1409e2d1d0640800000000000000
+      internalID: 5047722843178125338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_46
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 752
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd56c5aae23b97f70800000000000000
+      internalID: 9185569928006886877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_47
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 768
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39492b87b76375da0800000000000000
+      internalID: -5956232078240344941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_48
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 742
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048291f2ba1055560800000000000000
+      internalID: 7301744205592340544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 723
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a5c2f93709e4a40800000000000000
+      internalID: 5354375833256221339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_50
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 735
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e854e9efb88fe50800000000000000
+      internalID: 6843373559482781292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_51
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 731
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa2ed4420aa2a2a0800000000000000
+      internalID: -6727627966616032518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_52
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 704
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f3348b809f0ec0800000000000000
+      internalID: -3598498648352886025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_53
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 705
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fbade17a51016b0800000000000000
+      internalID: -5327734551657922716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_54
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 719
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e499a5951a89dd0800000000000000
+      internalID: -2479054189723300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_55
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 709
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0dcafc7686f5e30800000000000000
+      internalID: 4494425748214173949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 710
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a1e6cc8e2988a60800000000000000
+      internalID: 7676547093412846141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 691
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ea3481b3dba9a20800000000000000
+      internalID: 3069974157514223114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_58
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 697
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f78ce25fcdb4720800000000000000
+      internalID: 2831599736342478705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 682
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053dbe5f88cfbcf30800000000000000
+      internalID: 4597045509833347920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_60
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 769
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c246f4c317993810800000000000000
+      internalID: 1745592441747423944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_61
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 675
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70985eaaf1b3f83a0800000000000000
+      internalID: -6661040316660479737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 662
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba4a40aa7c99940800000000000000
+      internalID: 5303489569241738203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e682ef927410f690800000000000000
+      internalID: -7570528491068553500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 651
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0827c7528c7c06cb0800000000000000
+      internalID: -4872675134378577280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_65
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 648
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fed6d4feba4b4780800000000000000
+      internalID: -8697776071324016910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 630
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95d61649dbe73130800000000000000
+      internalID: 3546562549993887133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_67
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 616
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c121a8816946b7870800000000000000
+      internalID: 8681643302506336796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_68
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 627
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e873ef3de8b3c6bd0800000000000000
+      internalID: -2635666197290535026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_69
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 606
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc55ac6d484dadd60800000000000000
+      internalID: 7915872962061424079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 579
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf146a3c2dce34040800000000000000
+      internalID: 4630805231836742140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 577
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eedb0c35659ebce0800000000000000
+      internalID: -1387507373151887643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_72
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 583
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2c38fd7a0ace620800000000000000
+      internalID: 2804793310814913196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_73
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 567
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ad0a7bb2333e3f0800000000000000
+      internalID: -872797639922361825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 532
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a40c99551e4d6de0800000000000000
+      internalID: -1338327660654492509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 542
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86256395fe78e4120800000000000000
+      internalID: 2400005113498718824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_76
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 535
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d097f726c52ec60800000000000000
+      internalID: 7845935078948015473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_77
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 459
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7821319be559a9e60800000000000000
+      internalID: 7969846724650013319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_78
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 526
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052d2c11ecf7c13b0800000000000000
+      internalID: -5540412918534581680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 510
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6de95c22e1193e0800000000000000
+      internalID: -2048823220783622415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_80
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 527
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d066746a8ab717fd0800000000000000
+      internalID: -2345957966608898547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_81
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 511
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbddb266fd9db420800000000000000
+      internalID: 2647445837507845048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_82
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 504
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbccbd02f0cc0d0c0800000000000000
+      internalID: -4552914857923720005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637b5be9a03ebe9f0800000000000000
+      internalID: -438006903986604234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_84
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 479
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c85e740c6393a50800000000000000
+      internalID: 6501287736553868348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 475
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd67a489e92e4bb0800000000000000
+      internalID: -4949972857503912528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 462
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef0bf861ff652a80800000000000000
+      internalID: -8492258439698116635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 470
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ca5744bf75833e0800000000000000
+      internalID: -2073810891707143142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 453
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf91f6ebe049dceb0800000000000000
+      internalID: -4697936045232154116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_89
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 438
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4932919eb6e17b20800000000000000
+      internalID: 3130536922159659342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_90
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 447
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc6e795dd0c62bf0800000000000000
+      internalID: -349379864152871747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_91
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 447
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c403a462f719dc40800000000000000
+      internalID: 5537483546666665154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_92
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 430
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72a60fd4dcd47e80800000000000000
+      internalID: -8181671816192417158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_93
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 439
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec35337d0173a7d0800000000000000
+      internalID: -2908356631769826071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_94
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c966559e13a8f040800000000000000
+      internalID: 4681671164401445314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_95
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 395
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1944220c185934b60800000000000000
+      internalID: 7729185770004694161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_96
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b929a995acdb6e0800000000000000
+      internalID: -1820076188193612903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_97
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 391
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d62f051d15c0430800000000000000
+      internalID: 3750462549140860278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 390
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5b0d7f742c9d2e0800000000000000
+      internalID: -2100434136835508754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_99
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 374
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a398ddd8ea9aec0800000000000000
+      internalID: -3555118506501916146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_100
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c4066e8416ff50800000000000000
+      internalID: 6914736879703476314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 360
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170751419a5bcc1c0800000000000000
+      internalID: -4482007791349436303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_102
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 360
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7df24647d096520800000000000000
+      internalID: 2695700645506177001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_103
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 357
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee511330ad2e02c0800000000000000
+      internalID: -4463580014602789140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 323
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc91571b9e5f5ec0800000000000000
+      internalID: -3576035558904718127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_105
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 332
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c543084d633f000800000000000000
+      internalID: 68458705652571213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_106
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 330
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be26ba6c46bd8280800000000000000
+      internalID: -9039368437738623306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_107
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 320
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc5e7af1d416bad0800000000000000
+      internalID: -2686937235596616449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_108
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 310
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578ec71ebfbefa2d0800000000000000
+      internalID: -3265131737767942027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 299
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318640018d834bcc0800000000000000
+      internalID: -3696266893531518957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_110
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 303
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe0c6bcdc358a580800000000000000
+      internalID: -8815704127231488263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_111
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 303
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d506c5d3354b95300800000000000000
+      internalID: 241422324645781597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_112
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 295
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491079aa80b162bc0800000000000000
+      internalID: -3808326710859464300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_113
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 287
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dee77381fa42fb0800000000000000
+      internalID: -4673417994758591148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 286
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ca5373092be8b60800000000000000
+      internalID: 7750328341222501506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 281
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41897c8787068b390800000000000000
+      internalID: -7802380283880695788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_116
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 287
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1de5b61d30db850800000000000000
+      internalID: 6394271243920396799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_117
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 291
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8584e1debc1b6d660800000000000000
+      internalID: 7410305726299392088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_118
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 283
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e508d79d3698c40800000000000000
+      internalID: 5515049004456500833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_119
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 278
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b79b7596d9a991b0800000000000000
+      internalID: -5649297518463576136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_120
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 264
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e571f8b5e43058a50800000000000000
+      internalID: 6522623270394468190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_121
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 262
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229fa18fd6ca46780800000000000000
+      internalID: -8690631792604284638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_122
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 280
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64ae6446486cf420800000000000000
+      internalID: 2665119730501592173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_123
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 281
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760cccd79d96057c0800000000000000
+      internalID: -4084648479185649561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_124
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 280
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70836ced385993c60800000000000000
+      internalID: 7798428623379511303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_125
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 271
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b6379f079d73b30800000000000000
+      internalID: 4267118251201489805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_126
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 270
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09aca6d86183d950800000000000000
+      internalID: 6472659376739756299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_127
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 243
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78929aac1b82178b0800000000000000
+      internalID: -5156295354288100985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_128
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 236
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3956ca864a19197c0800000000000000
+      internalID: -4066308853222054509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_129
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 227
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3475d0dda4e56bb80800000000000000
+      internalID: -8379406381046999229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_130
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 232
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec7e621ef8db92f0800000000000000
+      internalID: -964939109398315800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_131
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 211
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d7f02bd296eed30800000000000000
+      internalID: 4462619925752544638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_132
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 206
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce61a7d5f49059b60800000000000000
+      internalID: 7752112570063525612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_133
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 207
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bc42e4a59304b20800000000000000
+      internalID: 3116554002161257370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_134
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 208
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f49f7762d5fe180800000000000000
+      internalID: -9083939503580033166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_135
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 216
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30d96be98b6ded0800000000000000
+      internalID: -2389519560465382494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_136
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d75683ced7608b0800000000000000
+      internalID: -5186319467358618323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_137
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 188
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c296eefbbfa7c990800000000000000
+      internalID: -7365725443570887997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_138
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 200
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf388e4c992941ee0800000000000000
+      internalID: -1291246004017265669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_139
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 193
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6b34e6c42c84370800000000000000
+      internalID: 8307103146208114363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_140
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 190
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e5fa919c21dd660800000000000000
+      internalID: 7412101216650354312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_141
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 183
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0250d86cf0252c530800000000000000
+      internalID: 3873748857201165600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_142
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 184
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef809a8e33c8ce90800000000000000
+      internalID: -7005134546994688031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_143
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 171
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a10f7c3bb9702fb0800000000000000
+      internalID: -4674602568129773148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_144
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 180
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53d6506c29a00c90800000000000000
+      internalID: -7205573395732835489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_145
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 174
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2d1322bc67b89e0800000000000000
+      internalID: -1618069026285432071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_146
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae950c998c7c301e0800000000000000
+      internalID: -2232721325858727446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_147
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 167
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b8af00aefa5eac0800000000000000
+      internalID: -3826458888807740540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_148
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5a0c97826dcf780800000000000000
+      internalID: -8647801715128490528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 167
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f28a2b0f7f5b6b0800000000000000
+      internalID: -5281042374860460281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_150
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 148
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8bc0203d0abf1e0800000000000000
+      internalID: -2162958367888459529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_151
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 142
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb5d2b307c856430800000000000000
+      internalID: 3775578276277083069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_152
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 144
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88c38a988b8c8100800000000000000
+      internalID: 111617509601560718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_153
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 136
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d15b4a53de61b0800000000000000
+      internalID: -5661355296793962368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_154
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 126
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20797f5f3245af060800000000000000
+      internalID: 6987990285245978370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_155
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 137
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7a3853acb2b8430800000000000000
+      internalID: 3786168059216242687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_156
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 120
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a7592d44481300800000000000000
+      internalID: 223003279751619219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_157
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090597931e60616f0800000000000000
+      internalID: -714375926489984880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_158
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 119
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b288a8daba0be6d0800000000000000
+      internalID: -2960260532450852176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_159
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 127
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84248b53944cba7a0800000000000000
+      internalID: -6364777829645139384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 86
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96a4d87c77076440800000000000000
+      internalID: 4928916548364838559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_161
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 104
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4105d160f7009d4f0800000000000000
+      internalID: -803610512945491948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_162
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 91
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dea46743c5e28360800000000000000
+      internalID: 7170546183606415056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_163
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7817aab59c03a07d0800000000000000
+      internalID: -2951492964403482233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_164
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 75
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3e372c37d0d6fe0800000000000000
+      internalID: -1194283535348538441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_165
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 87
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784ce367de6177c30800000000000000
+      internalID: 4356976373651129479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_166
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 79
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6305914f6b76240800000000000000
+      internalID: 4784994288617404083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_167
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 65
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fbdfb036ac45310800000000000000
+      internalID: 1392960711516077938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_168
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 68
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845d39804ed356240800000000000000
+      internalID: 4784298228756763976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_169
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f272cff6771900800000000000000
+      internalID: 655123111656749077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_170
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 56
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602d4fb715c293270800000000000000
+      internalID: 8230658522479907334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_171
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 61
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04489e103e661b320800000000000000
+      internalID: 2571949987380954176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_172
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 63
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c127de9b2aaf723f0800000000000000
+      internalID: -925495621590355428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 44
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03411e446de41cfe0800000000000000
+      internalID: -1170567745954048976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_174
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 55
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756b6587a76169e70800000000000000
+      internalID: 9121502810546288215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_175
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc959974bb3afffb0800000000000000
+      internalID: -4611787468648654389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_176
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09203c934653da720800000000000000
+      internalID: 2859000043032216208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_177
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adadc2c34f7d77f0800000000000000
+      internalID: -613194045244723801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_178
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 35
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41766903230572d50800000000000000
+      internalID: 6712421946112763668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_179
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134be9b00a055950800000000000000
+      internalID: 6437062240631472916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_180
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6bad0f69a76dd70800000000000000
+      internalID: 9067569688461620902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_181
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1af6aaeb4e2eafb0800000000000000
+      internalID: -4634716062923425254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_182
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4592cfdf79e4d0050800000000000000
+      internalID: 5768353112439662932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_183
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be0ec26f38a7e8d0800000000000000
+      internalID: -2817098051702878541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clo_184
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dac0104425f2480800000000000000
+      internalID: -8921821884768801406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clo_0: -5345928251689132701
+      clo_1: 8344122902686224951
+      clo_10: -7743885014182191084
+      clo_100: 6914736879703476314
+      clo_101: -4482007791349436303
+      clo_102: 2695700645506177001
+      clo_103: -4463580014602789140
+      clo_104: -3576035558904718127
+      clo_105: 68458705652571213
+      clo_106: -9039368437738623306
+      clo_107: -2686937235596616449
+      clo_108: -3265131737767942027
+      clo_109: -3696266893531518957
+      clo_11: 6307417149015670649
+      clo_110: -8815704127231488263
+      clo_111: 241422324645781597
+      clo_112: -3808326710859464300
+      clo_113: -4673417994758591148
+      clo_114: 7750328341222501506
+      clo_115: -7802380283880695788
+      clo_116: 6394271243920396799
+      clo_117: 7410305726299392088
+      clo_118: 5515049004456500833
+      clo_119: -5649297518463576136
+      clo_12: 2068653666742788686
+      clo_120: 6522623270394468190
+      clo_121: -8690631792604284638
+      clo_122: 2665119730501592173
+      clo_123: -4084648479185649561
+      clo_124: 7798428623379511303
+      clo_125: 4267118251201489805
+      clo_126: 6472659376739756299
+      clo_127: -5156295354288100985
+      clo_128: -4066308853222054509
+      clo_129: -8379406381046999229
+      clo_13: -4679290936045862751
+      clo_130: -964939109398315800
+      clo_131: 4462619925752544638
+      clo_132: 7752112570063525612
+      clo_133: 3116554002161257370
+      clo_134: -9083939503580033166
+      clo_135: -2389519560465382494
+      clo_136: -5186319467358618323
+      clo_137: -7365725443570887997
+      clo_138: -1291246004017265669
+      clo_139: 8307103146208114363
+      clo_14: 7533049920862625525
+      clo_140: 7412101216650354312
+      clo_141: 3873748857201165600
+      clo_142: -7005134546994688031
+      clo_143: -4674602568129773148
+      clo_144: -7205573395732835489
+      clo_145: -1618069026285432071
+      clo_146: -2232721325858727446
+      clo_147: -3826458888807740540
+      clo_148: -8647801715128490528
+      clo_149: -5281042374860460281
+      clo_15: 8767498027452525302
+      clo_150: -2162958367888459529
+      clo_151: 3775578276277083069
+      clo_152: 111617509601560718
+      clo_153: -5661355296793962368
+      clo_154: 6987990285245978370
+      clo_155: 3786168059216242687
+      clo_156: 223003279751619219
+      clo_157: -714375926489984880
+      clo_158: -2960260532450852176
+      clo_159: -6364777829645139384
+      clo_16: 4123258049724617066
+      clo_160: 4928916548364838559
+      clo_161: -803610512945491948
+      clo_162: 7170546183606415056
+      clo_163: -2951492964403482233
+      clo_164: -1194283535348538441
+      clo_165: 4356976373651129479
+      clo_166: 4784994288617404083
+      clo_167: 1392960711516077938
+      clo_168: 4784298228756763976
+      clo_169: 655123111656749077
+      clo_17: 3871322203713258654
+      clo_170: 8230658522479907334
+      clo_171: 2571949987380954176
+      clo_172: -925495621590355428
+      clo_173: -1170567745954048976
+      clo_174: 9121502810546288215
+      clo_175: -4611787468648654389
+      clo_176: 2859000043032216208
+      clo_177: -613194045244723801
+      clo_178: 6712421946112763668
+      clo_179: 6437062240631472916
+      clo_18: -7073354474706467197
+      clo_180: 9067569688461620902
+      clo_181: -4634716062923425254
+      clo_182: 5768353112439662932
+      clo_183: -2817098051702878541
+      clo_184: -8921821884768801406
+      clo_19: 9052873682461041130
+      clo_2: -8156278108757834706
+      clo_20: -2966283638251775981
+      clo_21: 3138329523155888121
+      clo_22: 2849148624684888256
+      clo_23: -4288996225044878910
+      clo_24: 590696487916164525
+      clo_25: 2526955916458285909
+      clo_26: -8705436483579130171
+      clo_27: -1924153754409859604
+      clo_28: 3647805745780296007
+      clo_29: 7413737295493298918
+      clo_3: -8799720682140794556
+      clo_30: 3751050089241345380
+      clo_31: 8860775102524532584
+      clo_32: -7544513046835627623
+      clo_33: -7952261564358192840
+      clo_34: 8828463066958903162
+      clo_35: 5918838106922348624
+      clo_36: 7550846412542911098
+      clo_37: 2673326385650779448
+      clo_38: 4885999624549067468
+      clo_39: 1419031293982927777
+      clo_4: 4323972262341438198
+      clo_40: 6905598219411799700
+      clo_41: -8531825181235726522
+      clo_42: 5565448045903451736
+      clo_43: 4830989542721552512
+      clo_44: -7794596348411546385
+      clo_45: 5047722843178125338
+      clo_46: 9185569928006886877
+      clo_47: -5956232078240344941
+      clo_48: 7301744205592340544
+      clo_49: 5354375833256221339
+      clo_5: 6089991478326851202
+      clo_50: 6843373559482781292
+      clo_51: -6727627966616032518
+      clo_52: -3598498648352886025
+      clo_53: -5327734551657922716
+      clo_54: -2479054189723300306
+      clo_55: 4494425748214173949
+      clo_56: 7676547093412846141
+      clo_57: 3069974157514223114
+      clo_58: 2831599736342478705
+      clo_59: 4597045509833347920
+      clo_6: -2746964359983845531
+      clo_60: 1745592441747423944
+      clo_61: -6661040316660479737
+      clo_62: 5303489569241738203
+      clo_63: -7570528491068553500
+      clo_64: -4872675134378577280
+      clo_65: -8697776071324016910
+      clo_66: 3546562549993887133
+      clo_67: 8681643302506336796
+      clo_68: -2635666197290535026
+      clo_69: 7915872962061424079
+      clo_7: 383988100319700337
+      clo_70: 4630805231836742140
+      clo_71: -1387507373151887643
+      clo_72: 2804793310814913196
+      clo_73: -872797639922361825
+      clo_74: -1338327660654492509
+      clo_75: 2400005113498718824
+      clo_76: 7845935078948015473
+      clo_77: 7969846724650013319
+      clo_78: -5540412918534581680
+      clo_79: -2048823220783622415
+      clo_8: -991400436724141351
+      clo_80: -2345957966608898547
+      clo_81: 2647445837507845048
+      clo_82: -4552914857923720005
+      clo_83: -438006903986604234
+      clo_84: 6501287736553868348
+      clo_85: -4949972857503912528
+      clo_86: -8492258439698116635
+      clo_87: -2073810891707143142
+      clo_88: -4697936045232154116
+      clo_89: 3130536922159659342
+      clo_9: -129864921060266653
+      clo_90: -349379864152871747
+      clo_91: 5537483546666665154
+      clo_92: -8181671816192417158
+      clo_93: -2908356631769826071
+      clo_94: 4681671164401445314
+      clo_95: 7729185770004694161
+      clo_96: -1820076188193612903
+      clo_97: 3750462549140860278
+      clo_98: -2100434136835508754
+      clo_99: -3555118506501916146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
